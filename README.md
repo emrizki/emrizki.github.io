@@ -5,3 +5,5 @@ project demo:
 
 ![demo](https://media.giphy.com/media/sIfRbtqN6S7otF7u1t/giphy.gif)
 
+link: https://emrizki.github.io
+
